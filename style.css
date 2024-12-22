@@ -1,0 +1,58 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #3b85c2;
+    margin-top: 20px;
+}
+
+/* Table Styles */
+table {
+    width: 90%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+/* Color Classes */
+.blue {
+    background-color: #70c3f0;
+}
+
+.aqua {
+    background-color: #a0d3ff;
+}
+.light-aqua {
+    background-color: #bde0fea6;
+}
+.yellow {
+    background-color:rgb(252, 252, 0);
+}
+.orange {
+    background-color: #fcc049a9;
+}
+
+
+
+.hidden-box{
+    background-color: #f9f9f9;
+    border: none;
+}
+#days{
+    background-color:#f9f9f9 ;
+}
+.gray{
+    background-color: rgba(128, 128, 128, 0.479);
+}
